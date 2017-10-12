@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Call"
+    url: /call
+  - title: "Registration"
+    url: /registration
+  - title: "Keynote"
+    url: /keynote
+  - title: "Program"
+    url: /program
+  - title: "Venue"
+    url: /venue
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
