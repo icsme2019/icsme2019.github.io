@@ -37,4 +37,14 @@ sidebar:
   <tr>
     <td style="text-align:center; background-color:#3090C7" colspan="2">Two Day Event</td>
   </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td style="text-align:center; background-color:#3CB371">One Day Event</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

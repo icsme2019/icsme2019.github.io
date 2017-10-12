@@ -8,6 +8,8 @@ main:
     url: /keynote
   - title: "Program"
     url: /program
+  - title: "Organization"
+    url: /organization
   - title: "Venue"
     url: /venue
   #- title: "Quick-Start Guide"
