@@ -12,11 +12,6 @@ sidebar:
     text: "More text here."
 ---
 
-## Notable Features
-- test
-- test
-- test
-
 ## Markdown Table
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
