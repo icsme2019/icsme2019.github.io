@@ -54,6 +54,21 @@
     </div>
   {% else %}
     <img src="{{ img_path }}" alt="{{ image_description }}" class="page__hero-image">
+    
+    {% if page.title contains "ICSME" %}
+    <div><table border="1">
+      <thead>
+        <th class="events">Sunday</th>
+        <th class="events">Monday</th>
+        <th class="events">Tuesday</th>
+        <th class="events">Wednesday</th>
+        <th class="events">Thursday</th>
+        <th class="events">Friday</th>
+        <th class="events">Saturday</th>
+      </thead>
+    </table></div>
+    {% endif %}
+
   {% endif %}
   {% if page.header.caption %}
     <span class="page__hero-caption">{{ page.header.caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
