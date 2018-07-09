@@ -1,5 +1,5 @@
 ---
-title: "WELCOME TO ICSME DEMO PAGE"
+title: "WELCOME TO ICSME"
 header:
   image: /assets/images/Cleveland_Skyline_Aug_2006.JPG
 layout: single
@@ -11,15 +11,16 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
 ---
+## SITE IS CURRENTLY UNDER CONSTRUCTION
 
-## Markdown Table
+<!--## Markdown Table
 
 | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |--------|---------|-----------|----------|--------|----------|--------|
 |  foo   |   bar   |           |   foo    |        |          |        |
-|  foo   |   bar   |   test    |          |        |          |        |
+|  foo   |   bar   |   test    |          |        |          |        |-->
 
-## HTML Table
+<!--## HTML Table
 <table>
   <tr>
     <td>Monday</td>
@@ -42,4 +43,4 @@ sidebar:
     <td></td>
     <td></td>
   </tr>
-</table>
+</table>-->
