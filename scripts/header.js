@@ -77,6 +77,6 @@ function writeHeader() {
     </nav>
 
     <!-- Header Content -->
-    <div><img src="assets/banners/Cleveland_Skyline_Aug_2006.JPG" class="img-fluid" alt="Responsive image"></div>
+    <div><img src="assets/banners/icsme2019_banner.jpg" class="img-fluid" alt="Responsive image"></div>
     `;
 }
