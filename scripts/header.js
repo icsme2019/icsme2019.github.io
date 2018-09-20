@@ -13,7 +13,7 @@ function writeHeader() {
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Call for Papers</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Coming Soon!</a>
+                    <a class="dropdown-item" href="cfp_research_track.html">Research Track</a>
                 </div>
             </li>
 
