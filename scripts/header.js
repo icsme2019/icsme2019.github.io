@@ -28,7 +28,7 @@ function writeHeader() {
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Co-Located Events</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="#">SCAM</a>
-                    <a class="dropdown-item" href="#">VISSOFT</a>
+                    <a class="dropdown-item" href="http://vissoft19.dcc.uchile.cl/" target="_BLANK">VISSOFT</a>
                 </div>
             </li>
 
