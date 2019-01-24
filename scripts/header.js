@@ -21,6 +21,7 @@ function writeHeader() {
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Team</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="organizing_committee.html">Organizing Committee</a>
+                    <a class="dropdown-item" href="program_committee.html">Program Committee</a>
                 </div>
             </li>
 
