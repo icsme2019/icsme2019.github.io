@@ -15,6 +15,7 @@ function writeHeader() {
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="cfp_research_track.html">Research Track</a>
                     <a class="dropdown-item" href="cfp_late_breaking_ideas_track.html">Late Breaking Ideas Track</a>
+                    <a class="dropdown-item" href="cfp_journal_first_track.html">Journal First Track</a>
                 </div>
             </li>
 
