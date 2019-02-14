@@ -34,19 +34,15 @@ function writeHeader() {
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Co-Located Events</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">SCAM</a>
+                    <a class="dropdown-item" href="http://www.ieee-scam.org/2019/" target="_BLANK">SCAM</a>
                     <a class="dropdown-item" href="http://vissoft19.dcc.uchile.cl/" target="_BLANK">VISSOFT</a>
                 </div>
             </li>
 
-            <li class="nav-item">
-                <a class="nav-link" href="#">Venue</a>
-            </li>
-
             <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Travel</a>
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>    
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <a class="dropdown-item" href="#">Coming Soon!</a>
+                    <a class="dropdown-item" href="venue.html">Venue</a>
                 </div>
             </li>
 
