@@ -15,7 +15,11 @@ function writeHeader() {
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="cfp_research_track.html">Research Track</a>
                     <a class="dropdown-item" href="cfp_late_breaking_ideas_track.html">Late Breaking Ideas Track</a>
+                    <a class="dropdown-item" href="cfp_tool_demo_track.html">Tool Demo Track</a>
+                    <a class="dropdown-item" href="cfp_industry_track.html">Industry Track</a>
+                    <a class="dropdown-item" href="cfp_artifacts_track.html">Artifacts Track</a>
                     <a class="dropdown-item" href="cfp_journal_first_track.html">Journal First Track</a>
+                    <a class="dropdown-item" href="cfp_doctoral_symposium.html">Doctoral Symposium</a>
                 </div>
             </li>
 
