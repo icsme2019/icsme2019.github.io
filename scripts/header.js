@@ -14,6 +14,7 @@ function writeHeader() {
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Call for Papers</a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="cfp_research_track.html">Research Track</a>
+                    <a class="dropdown-item" href="cfp_short_papers_track.html">Short Paper Track</a>
                     <a class="dropdown-item" href="cfp_late_breaking_ideas_track.html">Late Breaking Ideas Track</a>
                     <a class="dropdown-item" href="cfp_tool_demo_track.html">Tool Demo Track</a>
                     <a class="dropdown-item" href="cfp_industry_track.html">Industry Track</a>
