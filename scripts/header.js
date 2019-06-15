@@ -9,7 +9,19 @@ function writeHeader() {
 \
         <div class="collapse navbar-collapse" id="navbarResponsive">\
         <ul class="navbar-nav ml-auto">\
-             <li class="nav-item dropdown">\
+            <!--<li class="nav-item dropdown">\
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration</a>\
+            </li>-->\
+\
+            <li class="nav-item dropdown">\
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>\
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
+                    <a class="dropdown-item" href="venue.html">Venue</a>\
+                    <!--<a class="dropdown-item" href="#">Visa Invitation</a>-->\
+                </div>\
+            </li>\
+\
+            <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Program</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="keynotes.html">Keynotes</a>\
@@ -44,13 +56,6 @@ function writeHeader() {
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="http://www.ieee-scam.org/2019/" target="_BLANK">SCAM</a>\
                     <a class="dropdown-item" href="http://vissoft19.dcc.uchile.cl/" target="_BLANK">VISSOFT</a>\
-                </div>\
-            </li>\
-\
-            <li class="nav-item dropdown">\
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>\
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
-                    <a class="dropdown-item" href="venue.html">Venue</a>\
                 </div>\
             </li>\
 \
