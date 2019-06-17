@@ -16,7 +16,7 @@ function writeHeader() {
             <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
-                    <a class="dropdown-item" href="venue.html">Venue</a>\
+                    <a class="dropdown-item" href="venue.html">Hotel Venue</a>\
                     <!--<a class="dropdown-item" href="#">Visa Invitation</a>-->\
                 </div>\
             </li>\
