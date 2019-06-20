@@ -19,6 +19,7 @@ function writeHeader() {
                     <a class="dropdown-item" href="venue.html">Hotel Venue</a>\
                     <a class="dropdown-item" href="traveling_to_cleveland.html">Traveling to Cleveland</a>\
                     <a class="dropdown-item" href="visa_invitation_letter.html">Visa Invitation</a>\
+                    <!--<a class="dropdown-item" href="student_volunteers.html">Student Volunteer Application</a>-->\
                 </div>\
             </li>\
 \
