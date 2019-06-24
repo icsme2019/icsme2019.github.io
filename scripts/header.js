@@ -9,9 +9,9 @@ function writeHeader() {
 \
         <div class="collapse navbar-collapse" id="navbarResponsive">\
         <ul class="navbar-nav ml-auto">\
-            <!--<li class="nav-item dropdown">\
-                <a class="nav-link dropdown-toggle" href="registration.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Registration</a>\
-            </li>-->\
+            <li class="nav-item">\
+                <a class="nav-link" href="registration.html">Registration</a>\
+            </li>\
 \
             <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>\
