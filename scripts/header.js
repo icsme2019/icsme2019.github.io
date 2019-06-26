@@ -54,6 +54,13 @@ function writeHeader() {
             </li>\
 \
             <li class="nav-item dropdown">\
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>\
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
+                    <a class="dropdown-item" href="lbgtiq_event.html">LGBTIQ Lunch Event</a>\
+                </div>\
+            </li>\
+\
+            <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Co-Located Events</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="http://www.ieee-scam.org/2019/" target="_BLANK">SCAM</a>\
