@@ -39,6 +39,7 @@ function writeHeader() {
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="organizing_committee.html">Organizing Committee</a>\
                     <a class="dropdown-item" href="program_committee.html">Program Committee</a>\
+                    <a class="dropdown-item" href="https://conferences.computer.org/icsm/Steering_Committee_Members.html" target="_BLANK">Steering Committee</a>\
                 </div>\
             </li>\
 \
