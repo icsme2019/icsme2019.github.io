@@ -46,6 +46,7 @@ function writeHeader() {
             <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
+                    <a class="dropdown-item" href="lunch_breaks.html">Lunch & Breaks</a>\
                     <a class="dropdown-item" href="reception.html">Reception</a>\
                     <a class="dropdown-item" href="banquet.html">Banquet</a>\
                     <a class="dropdown-item" href="faculty_mentorship_roundtable.html">Faculty Mentorship Roundtable Lunch</a>\
