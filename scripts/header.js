@@ -9,10 +9,6 @@ function writeHeader() {
 \
         <div class="collapse navbar-collapse" id="navbarResponsive">\
         <ul class="navbar-nav ml-auto">\
-            <li class="nav-item">\
-                <a class="nav-link" href="registration.html">Registration</a>\
-            </li>\
-\
             <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Venue & Travel</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
@@ -35,15 +31,6 @@ function writeHeader() {
             </li>\
 \
             <li class="nav-item dropdown">\
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Team</a>\
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
-                    <a class="dropdown-item" href="organizing_committee.html">Organizing Committee</a>\
-                    <a class="dropdown-item" href="program_committee.html">Program Committee</a>\
-                    <a class="dropdown-item" href="https://conferences.computer.org/icsm/Steering_Committee_Members.html" target="_BLANK">Steering Committee</a>\
-                </div>\
-            </li>\
-\
-            <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="lunch_breaks.html">Lunch & Breaks</a>\
@@ -56,6 +43,15 @@ function writeHeader() {
             </li>\
 \
             <li class="nav-item dropdown">\
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Team</a>\
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
+                    <a class="dropdown-item" href="organizing_committee.html">Organizing Committee</a>\
+                    <a class="dropdown-item" href="program_committee.html">Program Committee</a>\
+                    <a class="dropdown-item" href="https://conferences.computer.org/icsm/Steering_Committee_Members.html" target="_BLANK">Steering Committee</a>\
+                </div>\
+            </li>\
+\
+            <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Co-Located Events</a>\
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
                     <a class="dropdown-item" href="http://www.ieee-scam.org/2019/" target="_BLANK">SCAM</a>\
@@ -63,33 +59,9 @@ function writeHeader() {
                 </div>\
             </li>\
 \
-            <!-- HIDE REGISTRATION\
             <li class="nav-item">\
-                <a class="nav-link" href="#">Registration</a>\
+                <a class="nav-link" href="registration.html">Registration</a>\
             </li>\
-            -->\
-\
-            <!-- HIDE KEYNOTE\
-            <li class="nav-item">\
-                <a class="nav-link" href="#">Keynote</a>\
-            </li>\
-            -->\
-\
-            <!-- HIDE PROGRAM\
-            <li class="nav-item">\
-                <a class="nav-link" href="#">Program</a>\
-            </li>\
-            -->\
-\
-            <!-- HIDE SOCIAL EVENTS\
-            <li class="nav-item dropdown">\
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Social Events</a>\
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">\
-                    <a class="dropdown-item" href="#">Action</a>\
-                    <a class="dropdown-item" href="#">Another action</a>\
-                </div>\
-            </li>\
-            -->\
 \
             <li class="nav-item dropdown">\
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Call for Papers</a>\
